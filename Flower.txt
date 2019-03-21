@@ -1,0 +1,62 @@
+We will also send you the Server/Client/Test App source codes for your help.
+Picture of the Smart Meter and the Collector.
+
+We need a very good UI design. Especially the Data Chart at the middle
+
+The Smart Meter reads the water consumption and sends the data to the Collector. The Collector has a SIM card to connect to the Server. The meter has a control valve to close/open the water supply.
+
+client->collector(sim)->server
+
+
+The system is live now so you can test it.
+
+108.166.181.6/phpmyadmin
+User: -root
+pass: BestTe@m1
+Database name: flower
+
+Port for Collector 889
+Port for service 888
+
+https://www.base64decode.org/dec
+
+
+Sending TJJYL001 to 108.166.181.6:888(service port) every 300000 ms,  not process reply
+When click valve, sending MeaterNum:xx;CJQNum:xx;OpenTap; or CloseTap;
+When click read,  sending MeaterNum:xx;CJQNum:xx;ReadMeater;
+ex;
+MeaterNum:35311809011900;CJQNum:CJ180903;ReadMeater;
+Collector:CJ180903->upload data:Table number:35311809011900;Data direction:Upstream;Magnetic interference:no;Battery status:normal;Valve status:turn off;Cumulative traffic:0.47;
+
+MeaterNum:35311809011900;CJQNum:CJ180903;CloseTap;
+Collector:CJ180903->upload data:Table number:35311809011900;Data direction:Upstream;Magnetic interference:no;Battery status:normal;Valve status:turn off;Performing a valve control action;
+
+MeaterNum:35311809011900;CJQNum:CJ180903;OpenTap;
+Collector:CJ180903->upload data:Table number:35311809011900;Data direction:Upstream;Magnetic interference:no;Battery status:normal;Valve status:open;Performing a valve control action;
+
+-------------------------------------------------------
+ex; Job paging & monitoring system + Driver ANDROID app)
+
+
+i need a webpage for keying in bookings, i need some monitoring scripts to monitor jobs, and a driver app for drivers to accept and get the jobs details.
+
+
+Webpages
+Admin control panel - Manage/Approve driver, Manage booker, Manage booking
+Booker - Registration (approved by Admin), Manage/View/Edit own bookings
+
+BackEnd
+Monitor Jobs
+Dispatch Jobs to Drivers
+Update Flight stats
+
+
+Driver Andorid App
+Registration - Uploading documents
+Bid/Return/Start/End Job
+
+
+driver app needs to have gps tracking as well
+once end job, customer has to sign on the driver app. and the signature is uploaded onto the server
+
+passenger will use finger to sign on driver phone
