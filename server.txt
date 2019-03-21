@@ -1,0 +1,67 @@
+Subject: Hyper-V/VPS Flower1.flower.com for Mansour Aldajani
+To: <mansour.aldajani@gmail.com>
+
+
+Hello Mansour Aldajani
+
+Welcome to the Database Mart LLC family. Here is the information for your new Windows Hyper-V server. Please print or save this message for future reference.
+
+Control Panel URL
+Control Panel URL: 	https://cp4001.databasemart.com
+Username: 	flower
+Password: 	BestTe@m1
+
+Server configuration
+Server Name: 	Flower1.flower.com
+User Name: 	administrator(for Windows/Ubuntu) Or root(for other Linux distributions)
+Password: 	BestTe@m1
+RAM Size: 	2048MB
+
+Mansour Project
+
+1. 100$ start and analyzing current sources, set server environments
+2. 100$ UI and Mockup Design
+3. 200$ Backend and Services
+4. 200$ Android
+5. 200$ iOS
+6. 100$ Admin
+7. 100$ User Acceptance Testing
+
+Hard Disk Size: 	60GB
+Operating System: 	Windows Server 2019 Standard x64
+
+IP Addresses
+IP 	Subnet Mask 	Default Gateway
+108.166.181.6 	255.255.255.128 	108.166.181.1
+
+Help & Support
+
+The following links includes solutions to resolve some common problems you may encounter:
+
+1) How to connect to a Windows server/VPS via RDP
+https://portal.databasemart.com/kb/a188/how-to-rdp-connect-to-windows-server-vps.aspx
+2) How to connect to a Linux server/VPS via Putty
+https://portal.databasemart.com/kb/a189/how-to-ssh-to-linux-vps-via-putty.aspx
+3) How to open port in Windows Firewall
+https://portal.databasemart.com/kb/a45/how-to-open-port-in-windows-firewall.aspx
+4) How to add a site into the “Trusted sites” list to download software in Internet Explorer (IE)
+https://portal.databasemart.com/kb/a66/how-do-i-add-a-site-to-my-trusted-sites-list-in-ie-inorder-to-download-software.aspx?KBSearchID=17113
+5) How to change the administrator’s password in Windows
+https://portal.databasemart.com/kb/a199/how-do-i-change-the-administrator-password-on-a-windows-server.aspx
+6) To point your domain to your server IP, use one of the following methods:
+
+A) If you want to use our name server to manage the DNS records of your domain, please submit a request to support@databasemart.com.
+
+B) To update DNS A records from your present name server provider to the server IP.
+
+7) We can install WebsitePanel on your server if you want to host multiple websites and databases. To install WebsitePanel, please submit a request to support@databasemart.com.
+
+Helpdesk: https://portal.databasemart.com/
+Email Support: support@databasemart.com
+
+Thanks again for your business and we look forward to serving you.
+
+
+Database Mart LLC
+http://www.databasemart.com
+Cloud Database Hosting Specialist
